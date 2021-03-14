@@ -1,0 +1,17 @@
+:root{
+    --color-fondo-duoc: #021632;
+}
+
+.bg-duoc{
+    background: var(--color-fondo-duoc);
+}
+
+.img-fluid{
+    height: auto;
+    width: 100%;
+}
+
+.imagen-etapa{
+    width: 100%;
+    height:auto;
+}
